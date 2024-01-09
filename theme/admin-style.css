@@ -1,0 +1,16 @@
+#sidebar::-webkit-scrollbar {
+    width: 5px;
+}
+
+#sidebar::-webkit-scrollbar-track {
+    border-radius: 12px;
+}
+
+#sidebar::-webkit-scrollbar-thumb {
+    border-radius: 12px;
+    background-color: #2C7BE5;
+
+}
+textarea{
+	resize: none !important;
+}
